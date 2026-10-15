@@ -239,27 +239,37 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
 slug: duanlian-ch01
 novel: duanlian
 number: 1
-title: 第一章
-date: 2026-10-14
+title: 第一章　配给照旧
+date: 2026-10-15
 ---
 
-## 节1-配给照旧
+# 第一章　配给照旧
 
-围城第二十一天，卯时。
+承平四十二年，朔风城，围城第一月。
 
-程钺从北门起巡。袖里贴着小臂有一张纸，四折，纸边磨软了，折缝上骑着一方朱印。他不碰它。守军实数一千一百七十三——这个数，他没说给第二个人听过。
+配给照旧账发放。盐，三日倍之。流民附城者，又三百口。
+
+是岁冬，粮乏。
+
+## 一
+
+围城第二十一天，卯时，程钺从北门起巡。
+
+城楼檐角，那只铜鸟还在转。
+
+袖里贴着小臂有一张纸，四折，纸边磨软了，折缝上骑着一方朱印。他不碰它。守军实数一千一百七十三——这个数，他没说给第二个人听过。
 
 城头的人见他上来，把腰直起。他走过去，腰又塌下去。
 
 甬道口错身是老匠，肩上搭着工具袋，刚校完水钟出来。
 
-「准的。」老匠说。
+程钺朝檐角抬了抬下巴。「它还能转多久。」
 
-「嗯。」
+老匠顺着望了一眼。「图上没写。」他把工具袋往上提了提，「准的。」
 
 水钟一天校一遍。围城二十一天，没停过。
 
-卯时的市已经有人在排队了。粮榜头天夜里就贴出来，十字街口，浆糊还没干透：本月配给，照旧账发放，数目与上月同。识字的人念给不识字的听，念了两遍，第二遍声音低下去，人群散了，散得比来的时候慢。隔壁盐铺卸了门板却不开张，掌柜把价牌翻过来背朝外挂着——铺里还有盐，价钱不给人看了。粮铺前的队拐过街角，队伍里没人说话，前面的人领了粮，用手掂一掂布袋，侧身让开，后面的人上前一步。有个孩子把撒在地上的一撮粮粒一粒一粒捡进手心，他娘把他的手攥住，攥进自己袖子里。
+卯时的市已经有人在排队了。粮榜头天夜里贴出来，十字街口，浆糊还没干透：本月配给，照旧账发放，数目与上月同。识字的人念给不识字的听，念了两遍，第二遍声音低下去，人群散了，散得比来的时候慢。隔壁盐铺卸了门板却不开张，掌柜把价牌翻过来背朝外挂着——铺里还有盐，价钱不给人看了。有个孩子把撒在地上的一撮粮粒一粒一粒捡进手心，他娘把他的手攥住，攥进自己袖子里。
 
 午后，醉红院。围城之后这里成了半个市面，酒还供得起，人就往这儿聚。沈砚在角落里磨墨。无名靠门坐着，擦一柄没鞘的刀。柴五占了最大的那张桌。
 
@@ -275,7 +285,7 @@ date: 2026-10-14
 
 老匠从碗沿上抬起头，点了下去。
 
-门边无名接话，不看人：「谁给饭，就给谁办事。旧主没了，规矩照旧。」
+门边无名没接话，把刀翻了个面，接着擦。
 
 柴五把那句话原样吼了一遍，吼到「先问剑」，桌上的碗跳了一跳。没人笑，也没人再问。
 
@@ -285,54 +295,46 @@ date: 2026-10-14
 
 「嗯。」
 
-「若真要退，我程钺带人先走一步。」
+沈砚把那八个字记上，吹干。
 
-沈砚把笔插回筒里，手没停。
-
-「此话我只记一笔，说不说由你。」
-
-「嗯。」
-
-次日，城里当日的配给减了半勺。没有告示，粮榜也没换。榜下领粮的队比头天更长，勺起粮落，快得很，谁也不看谁的碗。有个孩子把碗沿的糊刮干净，他娘按住他的手，把那根指头往自己袖子上抹了抹。队尾一个老汉踮起脚，把榜上「照旧」两个字用指头描了一遍，描完把手拢进怀里。
+次日，城里当日的配给减了半勺。没有告示，粮榜也没换。榜下领粮的队比头天更长，勺起粮落，快得很，谁也不看谁的碗。队尾一个老汉踮起脚，把榜上「照旧」两个字用指头描了一遍，描完把手拢进怀里。
 
 午后醉红院，他又说了一遍：配给照旧，谁敢言弃城，先问剑。
 
 这一遍，比头一遍短。
 
-夜里只剩沈砚。
-
-「配给照旧没变，」程钺说，「退路在谁手里，该去探探再说。」
-
-沈砚蘸墨，落笔，写完那一行才抬头。
-
-「白纸黑字，比谁的口都硬。」
-
 换岗的时候他又上了一趟北门。城头望出去，壕外洼地里的棚子比前几日多，天黑下来，那边没有点灯。门下有人喊门。喊的是开城。喊了两遍，声音是沙的，没了。
 
 他把那张纸取出来。城头没灯，折痕是他的手指认得的。他展开一角——第一行统共几个字，他闭着眼也认得。合上，折得比先前小，塞回袖里最贴肉的地方。
 
+## 二
 
-## 节2-锅不够分
+数日内，营中染疫者见于城关贫民区。盐价倍之。当铺连日满客，入质者多冬衣。
+
+## 三
 
 围城第二十二日，营里添了三百口。
 
-新来的人不打招呼。天黑搭棚，天亮就排进队里。天不亮，锅边就有人占位置。占不着的头两天还骂，如今不骂了，坐着等。
-
-棚户外沿多出一排新棚，棍子插进冻土，插不深，风一过就响。
-
-锅还是三口。原先一勺是一勺，如今一勺改半勺，添水的回数倒多了——水不要钱。队还是排到坟地边上。锅轮着看，这几日轮到她那一片，勺在她手里。她的嗓子是前些日子在城门底下喊哑的。喊了三天。门没开。
+新来的人不打招呼。天黑搭棚，天亮就排进队里。锅还是三口。原先一勺是一勺，如今一勺改半勺，添水的回数倒多了——水不要钱。队排到坟地边上。这几日轮到她那一片，勺在她手里。她的嗓子是前些日子在城门底下喊哑的。喊了三天。门没开。
 
 老赵的破帐子扎在乱葬岗那头，离营三百步。没人去那儿。
 
 第一日她去，他在补一只鞋。
 
 「老赵。」
+
 「嗯。」
+
 「城里你熟。」
+
 「熟的是路。」
+
 「能让我进城里躲躲吗。就我一个。添两个也行。我不要粮。城里一块地，站得下人就成。」
+
 他把线咬断。「你数数，城里如今还剩几条命。数完再想想，你那条排第几。」
+
 「我不会数。」
+
 「想活？」他说，「先学会不像人。」
 
 她没回。站着看他把那只鞋收拾完。他抬眼。她才走。
@@ -340,7 +342,9 @@ date: 2026-10-14
 第二日她又去。
 
 「行个方便。」
+
 「没有方便。」
+
 「咱家那弟弟，也盼着进城。」
 
 他没接这话，低头解开绑腿重系。「你那儿有布条没有？我这带子快断了。」
@@ -365,14 +369,6 @@ date: 2026-10-14
 
 骂声没停。她舀她的。一勺是一勺，谁多喊两声也不添。跟着骂的有几个，更多的人不骂，只看勺。看勺的比骂的多。
 
-又一日天擦黑，她又绕到帐子那边，隔着几步站定。
-
-「借你口问一句。城门真能开？」
-
-「混口饭吃。」他说，「谁肯开都一样。」
-
-她站着听了一会儿，走了。
-
 第二十四日早上她又去。这回话不一样，声音也压下来，低得只够两个人听见。
 
 「你随我去朔风城吧。」
@@ -389,7 +385,7 @@ date: 2026-10-14
 
 他朝那些坑看了一会儿，把手从她手里抽出去，走了。
 
-他走了，她还站在坑排中间。她蹲下去，抓起一把新土。手扬到一半，停住了。土从指缝里漏，漏完了，落在原地。她把手在衣襟上擦净，站到自己的影子斜了，才走。
+她蹲下去，抓起一把新土。手扬到一半，停住了。土从指缝里漏，漏完了，落在原地。她把手在衣襟上擦净，站到自己的影子斜了，才走。
 
 当晚她又走到帐子口，站得比往常远两步。他从怀里摸出两块干粮，塞进她手里——递的时候，没看她。冷的，硬的。他没说话，她也没说。
 
@@ -405,8 +401,13 @@ date: 2026-10-14
 
 只有她看见了：老赵白日里躲她，走的却不是坟地的方向——绕过土坡，往营外去。那边没有他的帐子，也没有坑。
 
+## 四
 
-## 节3-三倍
+是月，驿路马料减。文书积三日，驿卒择而送之。
+
+北骑大帐有客，不语。或问何人，不能答。
+
+## 五
 
 围城第二十一日，晌午，行脚商的话捎到了崔氏宅。
 
@@ -436,17 +437,13 @@ date: 2026-10-14
 
 满厅没人接话。半晌，族叔问，这时候三倍收井，图什么。
 
-「骑兵不晒盐。城归谁，井还是井。哪家坐城，哪家买盐。」
+「骑兵不晒盐。」崔氏说，「井又搬不走。」
 
 当夜，北门水洞的闸起了一半。守闸的老兵，前月在崔家柜上支过一回工钱。三更，族里一个后生牵骡出门，不打灯。草料按七日装。渡口在下游二里，船家收双倍，收了钱不问渡的是谁。口信送到北岸为止——再往北，是马队的地方。
 
 后生怀里几句话，句句口传，纸上没有一个字。
 
-四更她回房，箱底取出一本小账，就灯添一行：某，某日行，盘缠几何，七日归。
-
-天亮她照旧起早。粥是两样的，家里那锅糙米掺豆，她那碗没换。这话传出去，成了「崔氏与城中同甘苦」。
-
-第二十四日她去井上。卤水比上月浅了两指。出盐报到她手里：比上月减三成。井上二十七口人，从前三顿，如今两顿，起卤倒卤都慢半拍。
+第二十四日她去井上。卤水比上月浅了两指。出盐报到她手里：比上月减三成。井上二十七口人，从前三顿，如今两顿，起卤倒卤都慢半拍。有个盐匠手背上裂着口子，卤水一沾，白了一道，他也不停。
 
 「灶上添一顿稀的。盐匠的碗不省——省了碗，废的是井。」
 
@@ -488,13 +485,11 @@ date: 2026-10-14
 
 城里的：三十两从行脚商手里买的账，几仓，几石，几时见底，笔笔清楚。她翻到末页，指甲在日子上掐了一道印。
 
-后生走的那本小账摊在灯边。「七日归」。日子过了两日。
-
 她把城里那本账合上，往桌上一摔。
 
 账本弹了一下，躺在灯影里。
 
-她坐着看了它一会儿。然后起身，弯腰，捡起来，把摔折的那个角，一页一页抹平。抹完放回原处。又把后生那本小账收进袖里——没再放回箱底。
+她坐着看了它一会儿。然后起身，弯腰，捡起来，把摔折的那个角，一页一页抹平。抹完放回原处。
 
 前两日她跟族叔说过：「程城守，撑不过一个月。」族叔问怎见得。她说，账上见得。
 
@@ -508,12 +503,11 @@ date: 2026-10-14
 
 管事应了，退到门口，又站住：「还有一句，市上传的，不知当讲不当讲——北边放话了。说降的，不杀。」
 
-崔氏隔着袖子，把那本小账按了按。
+崔氏隔着袖子，把袖里那本小账按了按。
 
 「知道了。」
 
-
-## 节4-一盏灯
+## 六
 
 围城第二十五日，断碑隘整日没有人过。
 
@@ -589,8 +583,7 @@ date: 2026-10-14
 
 隘上这盏灯，亮到了天明。
 
-
-## 节5-照账
+## 七
 
 第二十八日，月末。城守府盘仓。
 
@@ -612,9 +605,9 @@ date: 2026-10-14
 
 晚上他把册子带到灯下，一页一页翻。入仓的日子，出仓的日子，笔笔都是平的，对得整整齐齐。损耗那一页，年年照写，今年也照写。他翻到那一页，停了停，又合上，把册子压在剑底下。
 
-六天前他跟沈砚说过一句话：退路在谁手里，该去探探再说。
+他又取来兵册，摊在粮册旁边。守军一千一百七十三。粮对人，他在心里除了一道，得出的日子，不足一月。他把兵册合上，往边上挪开一尺。
 
-入夜，醉红院。打独一处门前过，门板上着，板缝里没有灯，他在门前站了一息，走过去了。醉红院的灯比上个月少，酒还供着。沈砚在老位置，笔墨先摆开了——这个人在这座城里记了三十七年事，笔比人先到。
+入夜，醉红院。打独一处门前过，门板上着，板缝里没有灯，他在门前站了一息，走过去了。醉红院的灯比上个月少，酒还供着。沈砚在老位置，笔墨先摆开了——奉命修史的官，笔比人先到。
 
 程钺坐下，问：「粮配得足不？」
 
@@ -634,20 +627,17 @@ date: 2026-10-14
 
 「册子上的数，一个不差。」
 
-「白纸黑字，比谁的口都硬。」
-
 沈砚把刚写好的一行吹干，折起来，收进袖里。程钺没问他收的是哪一句。他起身，走到门口，身后沈砚把杯里剩的酒也喝完了。
 
-「剩下的，」沈砚说，「由史书去证。」
+是夜，砚归，秉烛书：「秋，盘仓。吏所报与册同，无差。又，市传盐商崔氏，栈不出车者旬日。」写到这里，笔停了停。他把「疑之」两个字写上，看了很久，又圈掉。末行只留两个字：无差。
 
 第二天卯时，府里的水钟误了刻。校钟的人来迟，赶到才扶正，多漏的那一刻没人去追。程钺站在钟底下，等它走准了，才接着巡城。
 
-北门城头，望出去：烽燧那面还黑着。壕外的棚子又多了几顶，门下没有动静。
+北门城头，望出去：烽燧那面还黑着。壕外的棚子又多了几顶，门下没有动静。城楼檐角，那只铜鸟还在转。
 
 他把袖里那张纸折了一下，没打开，塞回最贴肉的地方。
 
-
-## 节6-不动声色
+## 八
 
 井是第三十二日废的。
 
@@ -664,6 +654,7 @@ date: 2026-10-14
 如今她见着老赵，只点头。
 
 「吃了吗。」他有时问。
+
 「吃了。」她说。
 
 吃没吃，她不说。她坐在看得见帐子的那块石头上搓麻绳，一坐半天，眼皮耷拉着，像睡着。头几日她记的是白日：老赵几时在坟地，几时不在。后来记夜里：帐口的火几时亮，几时灭。记下的，她在棚柱上刻一道；火亮到后半夜的，再补一道。几日下来，一小片。
@@ -682,7 +673,7 @@ date: 2026-10-14
 
 劝的人不走，站着。她低头搓她的绳。绳声一响一响的，人自己走了。
 
-麻绳搓到这个长度，够做什么，她没跟人说过。她心里有数：城门哪天有了动静——开也好，乱也好——几百口人得赶紧拢在一处。拢不住，就是坟地里添数。拢人，要绳。
+麻绳搓到这个长度，够做什么，她没跟人说过。她心里有数：城门哪天有了动静——开也好，乱也好——几百口人得赶紧拢在一处。拢不住，就是坟地里添数。拢人，要绳。她在心里把营东头那块空地量了一遍——站得下人。
 
 麻不够了，她拆自己棚顶的旧绳来接。棚顶松了一块，她拿石头压住。
 
@@ -692,10 +683,16 @@ date: 2026-10-14
 
 过完账，她把绳子收进棚里，睡了。
 
-坡底下，帐口那点火还亮着。营里的火，如今就剩这一处，还亮到后半夜。
-`;function eC(e){const t=e.replace(/^#\s+.+\n+/,""),n=[];for(const r of t.split(`
-`)){const u=r.match(/^##\s+(.+?)\s*$/);u?n.push({id:`sec-${n.length+1}`,title:u[1],content:""}):n.length===0?n.push({id:"sec-0",title:"",content:r+`
-`}):n[n.length-1].content+=r+`
-`}return n}function zc(e){return e.replace(/^#{1,6}\s+/gm,"").replace(/\s+/g,"").length}function tC(e){return[...e].sort((t,n)=>t.number-n.number||(t.date<n.date?-1:t.date>n.date?1:0))}function nC(e,t){const n=e.findIndex(r=>r.slug===t);return n===-1?{}:{prev:n>0?e[n-1]:void 0,next:n<e.length-1?e[n+1]:void 0}}const rC=Object.assign({"../content/novels/duanlian-ch01.md":JE}),v0=[{id:"duanlian",title:"断链",status:"连载中",blurb:"一座被围的城。粮照旧发，人照旧守——粮、盐、井、烽燧，与人心的账目。"}],Wx=Object.entries(rC).map(([e,t])=>{var i;const{attrs:n,body:r}=ix(t),u=n.slug||e.replace(/^.*\//,"").replace(/\.md$/,"");return{slug:u,novelId:n.novel||((i=v0[0])==null?void 0:i.id)||"",number:Number(n.number)||0,title:n.title||u,date:n.date||"1970-01-01",body:r}});function Vc(e){const t=tC(Wx);return e?t.filter(n=>n.novelId===e):t}function Gx(e){return Wx.find(t=>t.slug===e)}function uC(e){return v0.find(t=>t.id===e)}function iC(e){const t=Gx(e),n=t?Vc(t.novelId):Vc();return nC(n,e)}function sC(){return p.jsx(yr,{id:"novel",prompt:"ls novels/",titleCn:"小说",titleEn:"FICTION",children:v0.map(e=>{const t=Vc(e.id),n=t.reduce((r,u)=>r+zc(u.body),0);return p.jsxs("div",{className:"rounded-lg border border-linedim bg-panel p-5 sm:p-6",children:[p.jsxs("div",{className:"flex flex-wrap items-baseline justify-between gap-3",children:[p.jsxs("h3",{className:"text-xl font-bold tracking-tighter2 text-ink",children:["《",e.title,"》"]}),p.jsx("span",{className:"rounded-full border border-linedim px-2.5 py-0.5 text-[10px] tracking-wider text-amber",children:e.status})]}),p.jsx("p",{className:"mt-2 text-sm leading-6 text-dim",children:e.blurb}),p.jsxs("p",{className:"mt-1.5 text-xs text-faint",children:["# ",t.length," 章 · ",n.toLocaleString("zh-Hans-CN")," 字"]}),p.jsx("ul",{className:"mt-4 border-t border-linedim",children:t.map(r=>p.jsx("li",{className:"border-b border-linedim",children:p.jsxs("a",{href:`#/novels/${encodeURIComponent(r.slug)}`,className:"group flex items-baseline justify-between gap-4 py-3.5",children:[p.jsxs("span",{className:"text-[15px] text-ink transition-colors group-hover:text-amber",children:[r.title,p.jsxs("span",{className:"ml-2.5 text-[11px] text-faint",children:[zc(r.body).toLocaleString("zh-Hans-CN")," 字"]})]}),p.jsx("span",{className:"shrink-0 text-xs text-faint",children:Wo(r.date)})]})},r.slug))})]},e.id)})})}function oC({slug:e}){const t=Gx(e);if(!t)return p.jsxs("div",{className:"mx-auto max-w-3xl px-5 sm:px-8",children:[p.jsxs("p",{className:"text-[11px] text-faint",children:[p.jsx("span",{className:"text-dim",children:"visitor@wyc"}),p.jsx("span",{className:"text-faint",children:":~$ "}),p.jsxs("span",{className:"text-amber",children:["cat novels/",e,".md"]})]}),p.jsx("h1",{className:"mt-3 text-2xl font-bold tracking-tighter2 text-ink",children:"章节不存在"}),p.jsxs("p",{className:"mt-2 text-sm text-dim",children:["# 没找到 ",p.jsx("span",{className:"text-amber",children:e}),"。可能链接有误。"]}),p.jsxs("button",{type:"button",onClick:()=>vt("/novel"),className:"mt-6 inline-flex items-center gap-2 rounded border border-linedim px-4 py-2 text-sm text-ink transition-colors hover:border-line hover:text-amber",children:[p.jsx(Qr,{size:14,"aria-hidden":"true"}),"返回书架"]})]});const n=uC(t.novelId),{prev:r,next:u}=iC(e),i=eC(t.body),s=i.filter(l=>l.title),o=zc(t.body),a=l=>{var c;(c=document.getElementById(l))==null||c.scrollIntoView({block:"start"})};return p.jsxs("article",{className:"mx-auto max-w-3xl px-5 sm:px-8",children:[p.jsxs("button",{type:"button",onClick:()=>vt("/novel"),className:"inline-flex items-center gap-1.5 text-xs text-dim transition-colors hover:text-amber",children:[p.jsx(Qr,{size:13,"aria-hidden":"true"}),"返回书架"]}),p.jsxs("p",{className:"mt-6 text-[11px] text-faint","aria-hidden":"true",children:[p.jsx("span",{className:"text-dim",children:"visitor@wyc"}),p.jsx("span",{className:"text-faint",children:":~$ "}),p.jsxs("span",{className:"text-amber",children:["cat novels/",t.slug,".md"]})]}),n&&p.jsxs("p",{className:"mt-3 text-xs tracking-wider text-amber",children:["《",n.title,"》"]}),p.jsx("h1",{className:"mt-1.5 text-2xl font-bold tracking-tighter2 text-ink sm:text-3xl",children:t.title}),p.jsxs("div",{className:"mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-dim",children:[p.jsxs("span",{children:[Wo(t.date)," 更新"]}),p.jsxs("span",{children:[o.toLocaleString("zh-Hans-CN")," 字"]}),n&&p.jsx("span",{className:"rounded-full border border-linedim px-2 py-0.5 text-[10px] tracking-wider text-faint",children:n.status})]}),p.jsx("div",{className:"mt-5 h-px w-full bg-linedim","aria-hidden":"true"}),s.length>1&&p.jsxs("nav",{"aria-label":"本章节目",className:"mt-4 rounded-lg border border-linedim bg-panel px-4 py-3",children:[p.jsx("p",{className:"text-[11px] text-faint",children:"# 本章节目"}),p.jsx("ul",{className:"mt-1.5 flex flex-wrap gap-x-5 gap-y-1.5",children:s.map(l=>p.jsx("li",{children:p.jsx("button",{type:"button",onClick:()=>a(l.id),className:"text-xs text-dim transition-colors hover:text-amber",children:l.title})},l.id))})]}),i.map(l=>p.jsx("section",{id:l.id,className:"scroll-mt-24",children:p.jsx("div",{className:"post-md mt-2",dangerouslySetInnerHTML:{__html:XE(l.title?`## ${l.title}
+坡底下，帐口那点火还亮着。
+
+## 九
+
+是月，城中配给再减，粮铺午后即闭。流民附城者又三百口。隘道绝，烽燧不举。
+
+围城一月，城中无一人言降。
+`;function eC(e){const t=e.replace(/^#\s+.+\n+/,""),n=[];let r=0;for(const u of t.split(`
+`)){const i=u.match(/^##\s+(.+?)\s*$/);i?(r+=1,n.push({id:`sec-${r}`,title:i[1],content:""})):n.length===0?n.push({id:"sec-0",title:"",content:u+`
+`}):n[n.length-1].content+=u+`
+`}return n}function zc(e){return e.replace(/^#{1,6}\s+.+$/gm,"").replace(/\s+/g,"").length}function tC(e){return[...e].sort((t,n)=>t.number-n.number||(t.date<n.date?-1:t.date>n.date?1:0))}function nC(e,t){const n=e.findIndex(r=>r.slug===t);return n===-1?{}:{prev:n>0?e[n-1]:void 0,next:n<e.length-1?e[n+1]:void 0}}const rC=Object.assign({"../content/novels/duanlian-ch01.md":JE}),v0=[{id:"duanlian",title:"断链",status:"连载中",blurb:"一座被围的城。粮照旧发，人照旧守——粮、盐、井、烽燧，与人心的账目。"}],Wx=Object.entries(rC).map(([e,t])=>{var i;const{attrs:n,body:r}=ix(t),u=n.slug||e.replace(/^.*\//,"").replace(/\.md$/,"");return{slug:u,novelId:n.novel||((i=v0[0])==null?void 0:i.id)||"",number:Number(n.number)||0,title:n.title||u,date:n.date||"1970-01-01",body:r}});function Vc(e){const t=tC(Wx);return e?t.filter(n=>n.novelId===e):t}function Gx(e){return Wx.find(t=>t.slug===e)}function uC(e){return v0.find(t=>t.id===e)}function iC(e){const t=Gx(e),n=t?Vc(t.novelId):Vc();return nC(n,e)}function sC(){return p.jsx(yr,{id:"novel",prompt:"ls novels/",titleCn:"小说",titleEn:"FICTION",children:v0.map(e=>{const t=Vc(e.id),n=t.reduce((r,u)=>r+zc(u.body),0);return p.jsxs("div",{className:"rounded-lg border border-linedim bg-panel p-5 sm:p-6",children:[p.jsxs("div",{className:"flex flex-wrap items-baseline justify-between gap-3",children:[p.jsxs("h3",{className:"text-xl font-bold tracking-tighter2 text-ink",children:["《",e.title,"》"]}),p.jsx("span",{className:"rounded-full border border-linedim px-2.5 py-0.5 text-[10px] tracking-wider text-amber",children:e.status})]}),p.jsx("p",{className:"mt-2 text-sm leading-6 text-dim",children:e.blurb}),p.jsxs("p",{className:"mt-1.5 text-xs text-faint",children:["# ",t.length," 章 · ",n.toLocaleString("zh-Hans-CN")," 字"]}),p.jsx("ul",{className:"mt-4 border-t border-linedim",children:t.map(r=>p.jsx("li",{className:"border-b border-linedim",children:p.jsxs("a",{href:`#/novels/${encodeURIComponent(r.slug)}`,className:"group flex items-baseline justify-between gap-4 py-3.5",children:[p.jsxs("span",{className:"text-[15px] text-ink transition-colors group-hover:text-amber",children:[r.title,p.jsxs("span",{className:"ml-2.5 text-[11px] text-faint",children:[zc(r.body).toLocaleString("zh-Hans-CN")," 字"]})]}),p.jsx("span",{className:"shrink-0 text-xs text-faint",children:Wo(r.date)})]})},r.slug))})]},e.id)})})}function oC({slug:e}){const t=Gx(e);if(!t)return p.jsxs("div",{className:"mx-auto max-w-3xl px-5 sm:px-8",children:[p.jsxs("p",{className:"text-[11px] text-faint",children:[p.jsx("span",{className:"text-dim",children:"visitor@wyc"}),p.jsx("span",{className:"text-faint",children:":~$ "}),p.jsxs("span",{className:"text-amber",children:["cat novels/",e,".md"]})]}),p.jsx("h1",{className:"mt-3 text-2xl font-bold tracking-tighter2 text-ink",children:"章节不存在"}),p.jsxs("p",{className:"mt-2 text-sm text-dim",children:["# 没找到 ",p.jsx("span",{className:"text-amber",children:e}),"。可能链接有误。"]}),p.jsxs("button",{type:"button",onClick:()=>vt("/novel"),className:"mt-6 inline-flex items-center gap-2 rounded border border-linedim px-4 py-2 text-sm text-ink transition-colors hover:border-line hover:text-amber",children:[p.jsx(Qr,{size:14,"aria-hidden":"true"}),"返回书架"]})]});const n=uC(t.novelId),{prev:r,next:u}=iC(e),i=eC(t.body),s=i.filter(l=>l.title),o=zc(t.body),a=l=>{var c;(c=document.getElementById(l))==null||c.scrollIntoView({block:"start"})};return p.jsxs("article",{className:"mx-auto max-w-3xl px-5 sm:px-8",children:[p.jsxs("button",{type:"button",onClick:()=>vt("/novel"),className:"inline-flex items-center gap-1.5 text-xs text-dim transition-colors hover:text-amber",children:[p.jsx(Qr,{size:13,"aria-hidden":"true"}),"返回书架"]}),p.jsxs("p",{className:"mt-6 text-[11px] text-faint","aria-hidden":"true",children:[p.jsx("span",{className:"text-dim",children:"visitor@wyc"}),p.jsx("span",{className:"text-faint",children:":~$ "}),p.jsxs("span",{className:"text-amber",children:["cat novels/",t.slug,".md"]})]}),n&&p.jsxs("p",{className:"mt-3 text-xs tracking-wider text-amber",children:["《",n.title,"》"]}),p.jsx("h1",{className:"mt-1.5 text-2xl font-bold tracking-tighter2 text-ink sm:text-3xl",children:t.title}),p.jsxs("div",{className:"mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-dim",children:[p.jsxs("span",{children:[Wo(t.date)," 更新"]}),p.jsxs("span",{children:[o.toLocaleString("zh-Hans-CN")," 字"]}),n&&p.jsx("span",{className:"rounded-full border border-linedim px-2 py-0.5 text-[10px] tracking-wider text-faint",children:n.status})]}),p.jsx("div",{className:"mt-5 h-px w-full bg-linedim","aria-hidden":"true"}),s.length>1&&p.jsxs("nav",{"aria-label":"本章节目",className:"mt-4 rounded-lg border border-linedim bg-panel px-4 py-3",children:[p.jsx("p",{className:"text-[11px] text-faint",children:"# 本章节目"}),p.jsx("ul",{className:"mt-1.5 flex flex-wrap gap-x-5 gap-y-1.5",children:s.map(l=>p.jsx("li",{children:p.jsx("button",{type:"button",onClick:()=>a(l.id),className:"text-xs text-dim transition-colors hover:text-amber",children:l.title})},l.id))})]}),i.map(l=>p.jsx("section",{id:l.id,className:"scroll-mt-24",children:p.jsx("div",{className:"post-md mt-2",dangerouslySetInnerHTML:{__html:XE(l.title?`## ${l.title}
 
 ${l.content}`:l.content)}})},l.id)),p.jsx("div",{className:"mt-6 h-px w-full bg-linedim","aria-hidden":"true"}),p.jsxs("nav",{"aria-label":"章节导航",className:"mt-5 flex items-center justify-between gap-3 pb-10",children:[r?p.jsxs("button",{type:"button",onClick:()=>vt(`/novels/${encodeURIComponent(r.slug)}`),className:"inline-flex items-center gap-1.5 rounded border border-linedim px-4 py-2 text-xs text-ink transition-colors hover:border-line hover:text-amber",children:[p.jsx(Qr,{size:13,"aria-hidden":"true"}),"上一章 ",r.title]}):p.jsx("span",{}),u?p.jsxs("button",{type:"button",onClick:()=>vt(`/novels/${encodeURIComponent(u.slug)}`),className:"inline-flex items-center gap-1.5 rounded border border-linedim px-4 py-2 text-xs text-ink transition-colors hover:border-line hover:text-amber",children:["下一章 ",u.title,p.jsx(Wv,{size:13,"aria-hidden":"true"})]}):p.jsx("span",{className:"text-xs text-faint",children:"已是最新章节"})]})]})}function aC(){const e=_k();return M.useEffect(()=>{if(e.name==="home"){const t=location.hash;if(t&&t!=="#"&&t!=="#/"){const n=document.getElementById(t.slice(1));if(n){n.scrollIntoView();return}}window.scrollTo(0,0)}else window.scrollTo(0,0)},[e]),e.name==="home"?p.jsx(hk,{}):p.jsxs("div",{className:"relative min-h-screen overflow-x-clip",children:[p.jsx(v2,{}),p.jsxs("main",{className:"pb-16 pt-24",children:[e.name==="blog"&&p.jsx(Ek,{}),e.name==="post"&&p.jsx(ZE,{slug:e.slug}),e.name==="editor"&&p.jsx(QE,{slug:e.slug}),e.name==="novel"&&p.jsx(sC,{}),e.name==="chapter"&&p.jsx(oC,{slug:e.slug})]}),p.jsx(ux,{})]})}yl.createRoot(document.getElementById("root")).render(p.jsx(Py.StrictMode,{children:p.jsx(aC,{})}));
